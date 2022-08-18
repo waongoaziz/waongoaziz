@@ -7,7 +7,7 @@ Full Stack Web Developer
 Extremely motivated to constantly develop my skills and grow professionally, I am confident in my ability to implement efficient, robust and adapted IT solutions for all sectors of activity.
 
 * 🌍  I'm based in Burkina Faso
-* 🖥️  See my portfolio at [waongo.dev](http://https://github.com/waongoaziz)
+* 🖥️  See my portfolio at [waongo.dev](https://github.com/waongoaziz)
 * ✉️  You can contact me at [waongoabdoulaye@gmail.com](mailto:waongoabdoulaye@gmail.com)
 * 🚀  I'm currently working on [ONTB](http://https://www.ontb.bf/)
 * 🧠  I'm learning NestJs
