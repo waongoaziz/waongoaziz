@@ -9,8 +9,8 @@ Extremely motivated to constantly develop my skills and grow professionally, I a
 * 🌍  I'm based in Burkina Faso
 * 🖥️  See my portfolio at [waongo.dev](https://github.com/waongoaziz)
 * ✉️  You can contact me at [waongoabdoulaye@gmail.com](mailto:waongoabdoulaye@gmail.com)
-* 🚀  I'm currently working on [ONTB](http://https://www.ontb.bf/)
-* 🧠  I'm learning NestJs
+* 🚀  I'm currently working on an unified information system for a government corporation with React & Django Rest Framework
+* 🧠  I'm learning Django and cloud computing
 * 🤝  I'm open to collaborating on Any Web App
 
 <a href="https://www.github.com/waongoaziz" target="_blank" rel="noreferrer"><img
